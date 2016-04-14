@@ -2,7 +2,7 @@
     "name": "makmonty/movac-sessions",
     "description": "User sessions plugin for Movac framework",
     "require": {
-        "makmonty/movac-mvc": "^0.0.1"
+        "makmonty/movac-mvc": "^0.0.2"
     },
     "license": "MIT"
 }
